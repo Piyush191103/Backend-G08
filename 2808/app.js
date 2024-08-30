@@ -52,4 +52,5 @@ const user=db.student.insertMany([{
 //     { "marks": { $gt: 95 } }, // Query to match documents where marks are greater than 95
 //     { $set: { "grade": "A++" } } // Update operation to set the grade to "A++"
 //   );
-  
+
+//hiii
