@@ -16,7 +16,7 @@ db.student.find({
   })
  db.student.find({
     grade: "A++"
-  })
+})
 //   db.student.find({
 //     ...     $and: [
 //     ...       { age: 22 },
